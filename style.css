@@ -2,6 +2,25 @@
 
 *{
   font-family: 'Poppins', sans-serif;
-  font-family: 'Poppins', sans-serif;
+  border: none;
 }
- 
+ .card{
+   border: none;
+   border-radius: 0.6rem;
+ }
+/* ============ Navbar  ============= */
+.navbar-brand img{
+  height: 60px;
+}
+
+.carousel-item .col-5 p{
+  margin: 2rem 0;
+}
+
+.left-images img{
+  /* height: 100px; */
+  width: 100%;
+}
+.catagories{
+  /* max-height: 300px; */
+}
